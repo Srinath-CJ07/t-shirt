@@ -1,3 +1,4 @@
-.evershop/
-node_module/
+.evershop
 .env
+node_modules
+backup.dump

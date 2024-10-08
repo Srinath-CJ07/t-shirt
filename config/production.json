@@ -33,24 +33,6 @@
                 "priority": 10 
             }
         ]
-    },
-    "themeConfig": {
-        "logo": {
-            "alt": "Threads Logo",
-            "src": "/logo.png",
-            "width": 130,
-            "height": 130
-        },
-        "headTags": {
-            "links": [
-                {
-                    "rel": "icon",
-                    "href": "/favicon.ico"
-                }
-            ],
-            "metas": [],
-            "scripts": []
-        },
-        "copyRight": "© 2024 ByteLogik. All Rights Reserved."
     }
+   
 }
