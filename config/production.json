@@ -25,7 +25,13 @@
     },
     
         "themeConfig": {
-           
+            "logo": {
+                "alt": "Threads Logo",
+                "src": "/logo.jpeg",
+                "width": 0,
+                "height": 0
+            },
+    
             "headTags": {
                 "links": [],
                 "metas": [],
