@@ -25,12 +25,7 @@
     },
     
         "themeConfig": {
-            "logo": {
-                "alt": "You amazing shop logo",
-                "src": "/logo.png",
-                "width": 100,
-                "height": 100
-            },
+           
             "headTags": {
                 "links": [],
                 "metas": [],
